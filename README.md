@@ -1,6 +1,6 @@
-# Siguiendo instrucciones uso react Router
+# Following instructions, I use React Router.
 
-[![Portada Felipe Arce](https://github.com/arceprogramando/reactrouterpractice/blob/main/public/portada.gif)](https://github.com/arceprogramando)
+[![Portada Felipe Arce](https://github.com/arceprogramando/reactrouterpractice/blob/main/public/portadaReactRouter.png)](https://github.com/arceprogramando)
 
 ### How to Follow Commit Structure in the Future
 
